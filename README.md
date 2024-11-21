@@ -46,6 +46,8 @@ Some notes:
   - Stephen Casper, Xander Davies, Claudia Shi, Thomas Krendl Gilbert, Jérémy Scheurer, Javier Rando, Rachel Freedman, Tomasz Korbak, David Lindner, Pedro Freire, Tony Wang, Samuel Marks, Charbel-Raphaël Segerie, Micah Carroll, Andi Peng, Phillip Christoffersen, Mehul Damani, Stewart Slocum, Usman Anwar, Anand Siththaranjan, Max Nadeau, Eric J. Michaud, Jacob Pfau, Dmitrii Krasheninnikov, Xin Chen, Lauro Langosco, Peter Hase, Erdem Bıyık, Anca Dragan, David Krueger, Dorsa Sadigh, and Dylan Hadfield-Menell. arXiv, 2024.
 
 ### RLHF for LLMs: Theory / Methods
+- [Reward Modeling with Ordinal Feedback: Wisdom of the Crowd](https://arxiv.org/abs/2411.12843)
+    - Shang Liu, Yu Pan, Guanting Chen, Xiaocheng Li. arXiv, 2024.
 - [Learn Your Reference Model for Real Good Alignment](https://arxiv.org/abs/2404.09656)
     - Alexey Gorbatovski, Boris Shaposhnikov, Alexey Malakhov, Nikita Surnachev, Yaroslav Aksenov, Ian Maksimov, Nikita Balagansky, Daniil Gavrilov. arXiv, 2024.
 - [Dataset Reset Policy Optimization for RLHF](https://arxiv.org/abs/2404.08495)
